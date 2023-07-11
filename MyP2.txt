@@ -1,0 +1,12 @@
+START
+int X12
+X12=2.5
+while(X12==0)
+{
+ABC1=4
+if ( true && 1)
+{ print(“ Inside IF inside Loop”) }
+end
+}
+print (“Hello ..”)
+END

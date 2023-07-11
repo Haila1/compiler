@@ -1,0 +1,13 @@
+START
+int X12
+float ABC1
+DDe = 7
+while(QNn >0) ## this a Comment ##
+{ 
+RLk9999 = ACc - 2
+CCC = true
+if(ACc == 5){ print("Inside IF inside Loop") }
+end 
+}
+print ("Hello .. ")
+END
